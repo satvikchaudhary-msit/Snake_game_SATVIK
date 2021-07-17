@@ -31,8 +31,6 @@ class Scoreboard(Turtle):
 
 
 
-    # def game_over(self):
-    #     self.goto(0, 0)
-    #     self.write(arg="GAME FOOKIN OVER 🖕", align="center", font=("Arial", 20, "normal"))
+ 
 
 
